@@ -15,7 +15,7 @@
 
 Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 
-<img width="60%" align="right" alt="GIF" src="https://www.sagaratechnology.com/blog/wp-content/uploads/2020/09/4.gif" />
+<img width="61%" align="right" alt="GIF" src="https://www.sagaratechnology.com/blog/wp-content/uploads/2020/09/4.gif" />
 
 **About Personal:**
 
@@ -80,6 +80,11 @@ Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
     <img height="22"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg">
 </a>
+
+<br>
+<br>
+<br>
+
 
 **Statistics:**
 <p align="left">
