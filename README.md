@@ -1,12 +1,12 @@
 ### Hey 👋, Call Me Yuung 🧑
 
 <a href="https://www.instagram.com/yuuunggg_">
-  <img align="left" alt="yungInstagram" width="24px"
+  <img align="left" alt="yungInstagram" width="30px"
     src="https://img.icons8.com/material-outlined/192/ffffff/instagram-new--v1.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/mochamad-syahrul-samsudin-bb06891a5/">
-  <img align="left" alt="yungLinkein" width="24px"
+  <img align="left" alt="yungLinkein" width="30px"
     src="https://img.icons8.com/ios-glyphs/120/ffffff/linkedin.png" />
 </a>
 
@@ -14,13 +14,14 @@
 
 Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 
-<img width="62%" align="right" alt="GIF" src="https://www.sagaratechnology.com/blog/wp-content/uploads/2020/09/4.gif" />
+<img width="61%" align="right" alt="GIF" src="https://www.sagaratechnology.com/blog/wp-content/uploads/2020/09/4.gif" />
 
 **About Personal:**
 
 + 👨🏽‍💻 I am currently a freelance work Web Programming,
 + 📱 I am currently learning about Mobile,
-+ 📧 Email Please send via mochamadsahrul.freelance@gmail.com to contact me.
++ 📧 Email Please send via 
+      mochamadsahrul.freelance@gmail.com to contact me.
 
 
 **Languages and Tools:**
