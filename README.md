@@ -1,24 +1,26 @@
-### Hey 👋, Call Me Yung
+### Hey 👋, Call Me Yuung 🧑
+
+<a href="https://www.instagram.com/yuuunggg_">
+  <img align="left" alt="yungInstagram" width="17px"
+    src="https://w7.pngwing.com/pngs/462/874/png-transparent-instagram-logo-icon-instagram-icon-text-logo-sticker.png" />
+</a>
 
 <a href="https://www.linkedin.com/in/mochamad-syahrul-samsudin-bb06891a5/">
-  <img align="left" alt="yungLinkein" width="27px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="yungLinkein" width="17px"
+    src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://www.instagram.com/yuuunggg_">
-  <img align="left" alt="yungInstagram" width="27px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 <br />
 <br />
 
 Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 
-<img width="60%" align="right" alt="GIF" src="https://www.sagaratechnology.com/blog/wp-content/uploads/2020/09/4.gif" />
+<img width="65%" align="right" alt="GIF" src="https://www.sagaratechnology.com/blog/wp-content/uploads/2020/09/4.gif" />
 
 **About Personal:**
 
 + 👨🏽‍💻 I am currently a freelance work Web Programming,
-+ 📱 I am currently learning about mobile,
++ 📱 I am currently learning about Mobile,
 + 📧 Email Please send via mochamadsahrul.freelance@gmail.com to contact me.
 
 
@@ -28,6 +30,8 @@ Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="22"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+    <code><img height="22"
+    src="https://4.bp.blogspot.com/-gkmU_iWjbRQ/W22_ifzh6eI/AAAAAAAAAoY/hfYtA9nhxS8jSYKUCoZ0U387qRaoS1lAACPcBGAYYCw/s1600/codeigniter.png"></code>
 <code><img height="22"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="22"
