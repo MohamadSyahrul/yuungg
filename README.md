@@ -11,8 +11,6 @@
 </a>
 
 <br>
-<br>
-<br>
 
 Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 
