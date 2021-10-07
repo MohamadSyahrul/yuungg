@@ -1,21 +1,22 @@
 ### Hey 👋, Call Me Yuung 🧑
 
 <a href="https://www.instagram.com/yuuunggg_">
-  <img align="left" alt="yungInstagram" width="17px"
-    src="https://w7.pngwing.com/pngs/462/874/png-transparent-instagram-logo-icon-instagram-icon-text-logo-sticker.png" />
+  <img align="left" alt="yungInstagram" width="24px"
+    src="https://img.icons8.com/material-outlined/192/ffffff/instagram-new--v1.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/mochamad-syahrul-samsudin-bb06891a5/">
-  <img align="left" alt="yungLinkein" width="17px"
-    src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <img align="left" alt="yungLinkein" width="24px"
+    src="https://img.icons8.com/ios-glyphs/120/ffffff/linkedin.png" />
 </a>
 
-<br />
-<br />
+<br>
+<br>
+<br>
 
 Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 
-<img width="65%" align="right" alt="GIF" src="https://www.sagaratechnology.com/blog/wp-content/uploads/2020/09/4.gif" />
+<img width="62%" align="right" alt="GIF" src="https://www.sagaratechnology.com/blog/wp-content/uploads/2020/09/4.gif" />
 
 **About Personal:**
 
