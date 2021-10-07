@@ -27,57 +27,57 @@ Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 **Languages and Tools:**
 
 <a href="https://github.com/topics/php" target="blank">
-    <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </a>
 <a href="https://github.com/topics/laravel" target="blank">
-    <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
 </a>
 <a href="https://github.com/topics/codeigniter" target="blank">
-    <img height="22"
+    <img height="25"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/codeigniter/codeigniter-plain.svg">
 </a>
 <a href="https://github.com/topics/tailwindcss" target="blank">
-    <img height="22"
+    <img height="25"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg">
 </a>
 <a href="https://github.com/topics/bootstrap" target="blank">
-    <img height="22"
+    <img height="25"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-plain.svg">
 </a>
 <a href="https://github.com/topics/javascript" target="blank">
-    <img height="22"
+    <img height="25"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-plain.svg">
 </a>
 <a href="https://github.com/topics/vuejs" target="blank">
-    <img height="22"
+    <img height="25"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg">
 </a>
 <a href="https://github.com/topics/flutter" target="blank">
-    <img height="22"
+    <img height="25"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg">
 </a>
 <a href="https://github.com/topics/mysql" target="blank">
-    <img height="22"
+    <img height="25"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg">
 </a>
 <a href="https://github.com/topics/bitbucket" target="blank">
-    <img height="22"
+    <img height="25"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bitbucket/bitbucket-original.svg">
 </a>
 <a href="https://github.com/topics/sass" target="blank">
-    <img height="22"
+    <img height="25"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg">
 </a>
 <a href="https://github.com/topics/git" target="blank">
-    <img height="22"
+    <img height="25"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg">
 </a>
 <a href="https://github.com/topics/figma" target="blank">
-    <img height="22"
+    <img height="25"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg">
 </a>
 <a href="https://github.com/topics/vscode" target="blank">
-    <img height="22"
+    <img height="25"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg">
 </a>
 
