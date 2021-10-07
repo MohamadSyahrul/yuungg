@@ -11,6 +11,8 @@
 </a>
 
 <br>
+<br>
+
 
 Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 
@@ -21,7 +23,8 @@ Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 + 👨🏽‍💻 I am currently a freelance work Web Programming,
 + 📱 I am currently learning about Mobile,
 + 📧 Email Please send via 
-      mochamadsahrul.freelance@gmail.com to contact me.
+      mochamadsahrul.freelance@gmail.com
+      to contact me.
 
 
 **Languages and Tools:**
