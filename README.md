@@ -85,9 +85,6 @@ Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 **Statistics:**
 <p align="left">
