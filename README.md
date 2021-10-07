@@ -1,4 +1,4 @@
-### Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, Call Me Yuung 🧑
+### Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, Call Me Yuung
 
 <a href="https://www.instagram.com/yuuunggg_">
   <img align="left" alt="yungInstagram" width="30px"
@@ -29,31 +29,31 @@ Hai, I'm **Yuungg**, I am a web programmer from indonesia 🇮🇩.
 **Languages and Tools:**
 
 <code><img height="22"
-    src="https://github.com/topics/laravel"></code>
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
 <code><img height="22"
-    src="https://github.com/topics/php"></code>
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"></code>
     <code><img height="22"
-    src="https://github.com/topics/codeigniter"></code>
+    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/codeigniter/codeigniter-plain.svg"></code>
 <code><img height="22"
-    src="https://github.com/topics/tailwind"></code>
+    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg"></code>
 <code><img height="22"
-    src="https://github.com/topics/bootstrap"></code>
+    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="22"
-    src="https://github.com/topics/javascript"></code>
+    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-plain.svg"></code>
 <code><img height="22"
-    src="https://github.com/topics/vue"></code>
+    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg"></code>
 <code><img height="22"
-    src="https://github.com/topics/flutter"></code>
+    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg"></code>
 <code><img height="22"
-    src="https://github.com/topics/mysql"></code>
+    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="22"
-    src="https://github.com/topics/terminal"></code>
+    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bitbucket/bitbucket-original.svg"></code>
 <code><img height="22"
-    src="https://github.com/topics/sass"></code>
+    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg"></code>
 <code><img height="22"
-    src="https://github.com/topics/git"></code>
+    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg"></code>
     <code><img height="22"
-    src="https://github.com/topics/figma"></code>
+    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg"></code>
 
 **Statistics:**
 <p align="left">
